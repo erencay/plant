@@ -8,7 +8,7 @@ const Register = () => {
         <div className="welcome-div">
           <p className="welcome-p">Hoşgeldin!</p>
           <p className="info-p">
-            Üyeliğini oluşturup merak edilen konularda fikirlerini paylaşmaya
+            Üyeliğini oluşturup felsefi konularda fikirlerini paylaşmaya
             hazır mısın?
           </p>
         </div>

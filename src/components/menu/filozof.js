@@ -23,7 +23,7 @@ const Filozof = () => {
         <p>Karl Marx</p>
       </div>
       <div className='filozof-içerik'>
-        <h1>FREDERİCH NİETZSCHE</h1>
+        <h1>FRIEDRICH NİETZSCHE</h1>
         <p>Russell, 1900'lerin başında İngilizler'in idealizme karşı başlattığı isyana öncülük etmiştir. Ludwig Wittgenstein ile birlikte analitlik felsefenin kurucusu kabul edilir. Felsefi denemesi ''İfade Üzerine" adlı eseri felsefinin paradigması olarak kabul görür. Aynı zamanda geniş bir çevrece 20. Yüzyılın önde gelen mantıkçılarından biri olarak bilinir. Çalışmaları mantık, matematik, dilbilim, bilgisayar teknolojisi ve filozofiyi, özelliklede dil felsefesi, epistemoloji ve metafiziği önemli ölçüde etkilemiştir.</p>
         <p>Serbest ticareti ve emperyalizm karşıtlığını desteklemiştir ve barışsever tutumundan dolayı Birinci Dünya Savaşı sırasında hapishanede yatmıştır. Daha sonra Adolf Hitler’e karşı kampanyalar düzenlemiş, Stalinci totalitarizmi eleştirmiş, Vietnam Savaşı’ındaki tutumu nedeniyle Amerikan hükümetini suçlamıştır. Aynı zamanda nükleer silahsızlanmanın dobra savunucularındandır. Son eylemlerinden bir tanesi İsrail’in Orta Doğu’daki ülkelere karşı izlediği tutumu eleştirdiği bir bildiri yayınlamasıdır.</p>
         <p>Wittgenstein Avusturya doğumlu filozof ve matematikçidir. Mantık ve dil felsefesi konularında yaptığı çalışmalarla modern felsefeye önemli katkılarda bulunmuştur. 20. yüzyılın en önemli filozoflarından sayılır.

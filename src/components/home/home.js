@@ -10,10 +10,10 @@ const Home = (props) => {
   const url = props.match.params.id;
   return (
     <div>
-      <Header />
+      <Header kullanıcı_adı={props.kullanıcı_adı} email={props.email} />
       <div className="container">
         <Content url={url}/>
-        <Input />
+        <Input kullanıcı_adı={props.kullanıcı_adı} url={url} />
       </div>
       <Answer url={url} />
       {/*<LeftBar />*/}

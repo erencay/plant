@@ -50,7 +50,7 @@
   background: #d64d4d;
 }
 .form .message {
-  margin: 15px 0 0;
+  margin: 20px 10px 0;
   color: #b3b3b3;
   font-size: 12px;
 }
@@ -68,11 +68,11 @@
   height: 500px;
 }
 .welcome-p {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-size: 50px;
   font-weight: bold;
   position: absolute;
-  left: 13%;
+  left: 12.5%;
   color: #d64d4d;
 }
 .info-p {
@@ -84,17 +84,32 @@
   max-width: 400px;
   color: #666666;
 }
-.register-label {
-  cursor: pointer;
-  color: #d64d4d;
-  margin-left:10px ;
+.relog-link {
+  cursor: pointer!important;
+  color: #d64d4d!important;
+  margin-left:10px!important;
 }
 .fb{
-  margin-top: 15px;
   background-color: #3b5998!important;
 }
 .fb:hover,
 .fb:active,
 .fb:focus{
   background-color: #76b852;
+}
+.login-form p{
+  font-family: 'Titillium Web', sans-serif;
+  color: #666666;
+  margin-left:163px; 
+}
+.login-link{
+  text-decoration: none!important;
+  color: red;
+  cursor: pointer;
+}
+.direct-login{
+  margin-left: 140px!important;
+}
+.direct-login-button{
+  background-color: #3b5998!important;
 }

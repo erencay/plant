@@ -24,7 +24,6 @@ class App extends React.Component{
         this.setState({kullanıcı_adı:user.displayName});
         this.setState({email:user.email})
         this.setState({authenticated: true});
-        console.log(this.state.kullanıcı_adı);
 
       } else {
         this.setState({authenticated:false})

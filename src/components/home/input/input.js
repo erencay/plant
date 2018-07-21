@@ -35,7 +35,6 @@ class Input extends Component {
         <MuiThemeProvider theme={theme}>
           <TextField
             id="textarea mui-theme-provider-input"
-            id="metered-form-textfield-desc"
             label="Ne Düsünüyorsunuz?"
             multiline
             className="Input"
